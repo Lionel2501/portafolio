@@ -23,7 +23,10 @@
                     <li>Tecnologia: Axios</li>
                     <li>Objetico: traer, modificar y borrar datos de una base de datos json, usando Axios</li>
                     <li>Opccion: uso de un login simple para entrar en la app </li>
-                    <li>Codigo: <span href="">link</span> </li>
+                    <li>Codigo: 
+                        <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/AxiosApp.vue" target="blank">
+                        Weather App</a> 
+                    </li>
                 </ul>
             </p>
         </section>
@@ -34,7 +37,10 @@
                     <li>Tecnologia: Fetch, Async / Await</li>
                     <li>Objetico: Usar la funccíon fetch con el metodo async / await desde una api </li>
                     <li>Opccion: usar un color en funccion del resultado  </li>
-                    <li>Codigo: <span href="">link</span> </li>
+                    <li>Codigo: 
+                        <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/FetchApiApp.vue" target="blank">
+                        Fetch Api App</a> 
+                    </li>
                 </ul>
             </p>
         </section>
@@ -45,8 +51,8 @@
                     <li>Tecnologia: Fetch, Async / Await</li>
                     <li>Objetico: Usar la funccíon fetch con el metodo async / await desde una api open source </li>
                     <li>Opccion: no hay opccion</li>
-                    <li>Codigo: <a href="https://github.com/Lionel2501/vuejs_weather_app" target="blank">
-                    https://github.com/Lionel2501/vuejs_weather_app</a> </li>
+                    <li>Codigo: <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/WeatherApp.vue" target="blank">
+                    Weather app</a> </li>
                 </ul>
             </p>
         </section>
@@ -57,8 +63,10 @@
                     <li>Tecnologia: JavaScript</li>
                     <li>Objetico: Manejo de javascript con operadores de matematicas </li>
                     <li>Opccion: no hay opccion</li>
-                    <li>Codigo: <a href="https://github.com/Lionel2501/vuejs_covid_dashboard_chartJs" target="blank">
-                    https://github.com/Lionel2501/vuejs_covid_dashboard_chartJs</a> </li>
+                    <li>Codigo: 
+                        <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/MathQuizApp.vue" target="blank">
+                        Math Quiz App</a> 
+                    </li>
                 </ul>
             </p>
         </section>
@@ -69,7 +77,10 @@
                     <li>Tecnologia: JavaScript</li>
                     <li>Objetico: Manejo de un player audio, y la creaccíon de un array para cambiar de musica</li>
                     <li>Opccion: clickaway, para pausar la musica cuando el usuario haga click fuera de la app</li>
-                    <li>Codigo: <span href="">link</span> </li>
+                    <li>Codigo: 
+                        <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/MusicApp.vue" target="blank">
+                        Music App</a> 
+                    </li>
                 </ul>
             </p>
         </section>
@@ -80,8 +91,10 @@
                     <li>Tecnologia: ChartJs</li>
                     <li>Objetico: imprimir resultados de un array en un graficó</li>
                     <li>Opccion: no hay opccion</li>
-                    <li>Codigo: <a href="https://github.com/Lionel2501/vuejs_covid_dashboard_chartJs" target="blank">
-                    https://github.com/Lionel2501/vuejs_covid_dashboard_chartJs</a> </li>
+                    <li>Codigo: 
+                        <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/ChartJsApp.vue" target="blank">
+                        Chart Js App</a> 
+                    </li>
 
                 </ul>
             </p>
@@ -93,7 +106,10 @@
                     <li>Tecnologia: Tailwind</li>
                     <li>Objetico: practicar el framework tailwind</li>
                     <li>Opccion: no se uso nigún CSS</li>
-                    <li>Codigo: <a href="https://github.com/Lionel2501/tailwind_vuejs_spotify" target="blank">https://github.com/Lionel2501/tailwind_vuejs_spotify</a> </li>
+                    <li>Codigo: 
+                        <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/SpotifyUiApp.vue" target="blank">
+                        Spotify UI App</a> 
+                    </li>
                 </ul>
             </p>
         </section>
