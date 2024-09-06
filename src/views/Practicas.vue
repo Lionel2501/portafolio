@@ -18,7 +18,7 @@
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Axios App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: Axios</li>
                     <li>Objetico: traer, modificar y borrar datos de una base de datos json, usando Axios</li>
@@ -28,11 +28,11 @@
                         Weather App</a> 
                     </li>
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Fetch Api App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: Fetch, Async / Await</li>
                     <li>Objetico: Usar la funccíon fetch con el metodo async / await desde una api </li>
@@ -42,11 +42,11 @@
                         Fetch Api App</a> 
                     </li>
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Weather App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: Fetch, Async / Await</li>
                     <li>Objetico: Usar la funccíon fetch con el metodo async / await desde una api open source </li>
@@ -54,11 +54,11 @@
                     <li>Codigo: <a class="underline" href="https://github.com/Lionel2501/portafolio/blob/master/src/views/WeatherApp.vue" target="blank">
                     Weather app</a> </li>
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Math Quiz App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: JavaScript</li>
                     <li>Objetico: Manejo de javascript con operadores de matematicas </li>
@@ -68,11 +68,11 @@
                         Math Quiz App</a> 
                     </li>
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Music App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: JavaScript</li>
                     <li>Objetico: Manejo de un player audio, y la creaccíon de un array para cambiar de musica</li>
@@ -82,11 +82,11 @@
                         Music App</a> 
                     </li>
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Chart Js App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: ChartJs</li>
                     <li>Objetico: imprimir resultados de un array en un graficó</li>
@@ -97,11 +97,11 @@
                     </li>
 
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         <section class="p-5 ml-2 mr-6 mb-2 rounded-md  text-left text-black bg-white shadow">
             <h1 class="my-1 font-semibold  text-xl">Spotify UI App</h1>
-            <p class="tracking-wider">
+            <!-- <p class="tracking-wider"> -->
                 <ul>
                     <li>Tecnologia: Tailwind</li>
                     <li>Objetico: practicar el framework tailwind</li>
@@ -111,7 +111,7 @@
                         Spotify UI App</a> 
                     </li>
                 </ul>
-            </p>
+            <!-- </p> -->
         </section>
         </div>
     </div>

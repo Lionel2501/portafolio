@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="flex">
         <PracticasList />
     </div>
@@ -13,4 +13,4 @@ export default {
         PracticasList
     }
 }
-</script>
+</script> -->

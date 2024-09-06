@@ -4,6 +4,7 @@
     <div class="text-left">
       <div class="flex justify-center">
         <table class="table my-5">
+          <tbody>
           <tr>
             <td>Nov 2018 / Mayo 2019</td>
             <td>REPARTIDOR</td>
@@ -71,6 +72,7 @@
             </td>
             <td>Orléans</td>
           </tr>
+        </tbody>
         </table>
       </div>
     </div>

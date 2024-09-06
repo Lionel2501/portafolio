@@ -3,6 +3,7 @@
     <h1 class="text-left font-semibold text-2xl tracking-wider">EDUCACÍON</h1>
     <div class="flex justify-center">
       <table class="table text-left my-5 mx-0">
+        <tbody>
         <tr class="border-b">
           <td>
             <img
@@ -39,6 +40,7 @@
           <td>Montargis</td>
           <td>Francia</td>
         </tr>
+      </tbody>
       </table>
     </div>
   </div>
