@@ -1,16 +1,19 @@
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
-import VueAxios from 'vue-axios'
-import Axios from 'axios'
+import { createApp } from 'vue';
+import App from './App.vue';
+import './index.css';
+import router from './router';
+import axios from 'axios';
+import VueAxios from 'vue-axios';
 
-Vue.config.productionTip = false
+// Crear la aplicación Vue
+const app = createApp(App);
 
-Vue.use(VueAxios, Axios)
+// Usar el router
+app.use(router);
 
-import '@/assets/css/tailwind.css'
+// Usar VueAxios con Axios
+app.use(VueAxios, axios);
 
-new Vue({
-  router,
-  render: h => h(App)
-}).$mount('#app')
+// Montar la aplicación en el DOM
+app.mount('#app');
+
